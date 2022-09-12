@@ -1,2 +1,4 @@
-# Database-Experience-DIO
-Repositório para acompanhamento do desenvolvimento dos Projetos do Bootcamp Database Experience
+# Database Experience-DIO
+Repositório para acompanhamento do desenvolvimento dos Projetos do Bootcamp Database Experience da DIO
+
+### Links Úteis
