@@ -11,4 +11,25 @@
 ### Dados >> São Fatos
 ### Dados Relacionados >> Database >> Significado
 
-[![Build Status](https://www.markdownguide.org/getting-started/)](https://www.markdownguide.org/getting-started/)
+
+
+
+# **SGBD**
+
+- Definição 
+   - Tipos de Dados
+   - Estrutura
+   - constrains
+- Construção
+   - Inserção de Dados
+- Manipulação
+   - Recuperação
+   - Relatórios
+   - Query
+- Compartilhamento
+  - Simultaneidade
+  - Acesso
+
+O SGBD é um software modular
+
+
