@@ -41,11 +41,20 @@ O SGBD é um software modular
 
 - Processa - Processa e armazena
 - Sistema de arquivos paralelos sem persistência/ com persistência
-- Acesso: HFF5 e NetCDF/ 
+- Acesso: HFF5 eNetCDF/ 
 - Modelos: MPI, OpenMP, OpenCL / MapReduce, Spark, SGBDs paralelos
 
 
 # **SGBDs NoSQL**
 
-### __Orientado à Documentos:__  mongo DB
+> **Orientado à Documentos:**  mongo DB
+
+> **Orientado à Colunas:** Cassandra
+
+> **Orientado à Key-Value:** redis (Escrito em C)
+
+> **Orientado à Grafos:** neo4j (Escrito em Java)
+
+> **Orientado à Objetos:** db4objects 
+
 
