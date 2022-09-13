@@ -64,10 +64,10 @@ O SGBD é um software modular
 
 &nbsp;
 
-- **Abstração:** através da abstração consegue determinar a estrutura dos dados e manipular as informações
+- **Abstração:** através da abstração consegue determinar a estrutura dos dados e manipular as informações. A abstração traz algo específico para o geral
 &nbsp;
 
-- **Isolamento:** Manutenção dos dados e sistemas
+- **Isolamento:** Manutenção dos dados e sistemas (Catálogo)
 - **Múltiplas Visões:**
 - **Auto-descrição:** ele possui uma descrição específica e concisa do BD dentro no sistema >> Descrição da estrutura e constrains >> DB Schema >> Metadados & Schemas
 - **Compartilhamento:** facilidade em compartilhar dados e informações em diversos grupos distintos
