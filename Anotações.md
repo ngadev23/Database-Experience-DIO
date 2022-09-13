@@ -14,7 +14,9 @@
 
 
 
-# **SGBD**
+# **SGBDs**
+
+![sgbds](https://leonardofnsca.files.wordpress.com/2021/03/sgbdmercado.png?w=500)
 
 - Definição 
    - Tipos de Dados
@@ -42,4 +44,8 @@ O SGBD é um software modular
 - Acesso: HFF5 e NetCDF/ 
 - Modelos: MPI, OpenMP, OpenCL / MapReduce, Spark, SGBDs paralelos
 
+
+# **SGBDs NoSQL**
+
+### __Orientado à Documentos:__  mongo DB
 
