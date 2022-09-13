@@ -2,19 +2,19 @@
 
 [Clique aqui para retornar ao repositório](https://github.com/ngadev23/Database-Experience-DIO)
 
-## **Big Data**
+> ## **Big Data**
  - Velocidade
  - Variedade
  - Volume
 
 
-## **O que são Banco de Dados?**
+> ## **O que são Banco de Dados?**
 
 ### Dados >> São Fatos
 ### Dados Relacionados >> Database >> Significado
 
 &nbsp;
-# **SGBDs**
+> # **SGBDs**
 
 ![sgbds](https://leonardofnsca.files.wordpress.com/2021/03/sgbdmercado.png?w=500)
 
@@ -37,7 +37,7 @@ O SGBD é um software modular
 &nbsp;
 ### **MySQL: SGBD open source**
 
-
+&nbsp;
 #### HPC vs BIG DATA
 
 - Processa - Processa e armazena
@@ -46,18 +46,18 @@ O SGBD é um software modular
 - Modelos: MPI, OpenMP, OpenCL / MapReduce, Spark, SGBDs paralelos
 
 &nbsp;
-# **SGBDs NoSQL**
+> # **SGBDs NoSQL**
 
-> **Orientado à Documentos:**  mongo DB
+- **Orientado à Documentos:**  mongo DB
 
-> **Orientado à Colunas:** Cassandra
+- **Orientado à Colunas:** Cassandra
 
-> **Orientado à Key-Value:** redis (Escrito em C)
+- **Orientado à Key-Value:** redis (Escrito em C)
 
-> **Orientado à Grafos:** neo4j (Escrito em Java)
+- **Orientado à Grafos:** neo4j (Escrito em Java)
 
-> **Orientado à Objetos:** db4objects 
+- **Orientado à Objetos:** db4objects 
 
 &nbsp;
-# **Abordagens de BDs**
+> # **Abordagens de BDs**
 
