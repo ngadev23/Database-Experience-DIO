@@ -61,3 +61,20 @@ O SGBD é um software modular
 &nbsp;
 > # **Abordagens de BDs**
 
+   ## Por que utilizar SGDBs?
+
+&nbsp;
+
+- **Abstração:** através da abstração consegue determinar a estrutura dos dados e manipular as informações
+&nbsp;
+
+- **Isolamento:** 
+- **Múltiplas Visões:**
+- **Auto-descrição:** ele possui uma descrição específica e concisa do BD dentro no sistema >> Descrição da estrutura e constrains >> DB Schema >> Metadados & Schemas
+- **Compartilhamento:** facilidade em compartilhar dados e informações em diversos grupos distintos
+- **Transação Multiuser**
+
+
+![sgbd2](https://cdn-icons-png.flaticon.com/512/2906/2906274.png)
+
+
