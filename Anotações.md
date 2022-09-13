@@ -32,4 +32,14 @@
 
 O SGBD é um software modular
 
+### **MySQL: SGBD open source**
+
+
+#### HPC vs BIG DATA
+
+- Processa - Processa e armazena
+- Sistema de arquivos paralelos sem persistência/ com persistência
+- Acesso: HFF5 e NetCDF/ 
+- Modelos: MPI, OpenMP, OpenCL / MapReduce, Spark, SGBDs paralelos
+
 
