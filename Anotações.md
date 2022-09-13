@@ -16,7 +16,7 @@
 &nbsp;
 > # **SGBDs**
 
-![sgbds](https://leonardofnsca.files.wordpress.com/2021/03/sgbdmercado.png?w=500)
+![sgbds](https://leonardofnsca.files.wordpress.com/2021/03/sgbdmercado.png?w=350)
 
 - Definição 
    - Tipos de Dados
@@ -47,7 +47,6 @@ O SGBD é um software modular
 
 &nbsp;
 > # **SGBDs NoSQL**
-
 - **Orientado à Documentos:**  mongo DB
 
 - **Orientado à Colunas:** Cassandra
@@ -61,20 +60,20 @@ O SGBD é um software modular
 &nbsp;
 > # **Abordagens de BDs**
 
-   ## Por que utilizar SGDBs?
+## Por que utilizar SGDBs?
 
 &nbsp;
 
 - **Abstração:** através da abstração consegue determinar a estrutura dos dados e manipular as informações
 &nbsp;
 
-- **Isolamento:** 
+- **Isolamento:** Manutenção dos dados e sistemas
 - **Múltiplas Visões:**
 - **Auto-descrição:** ele possui uma descrição específica e concisa do BD dentro no sistema >> Descrição da estrutura e constrains >> DB Schema >> Metadados & Schemas
 - **Compartilhamento:** facilidade em compartilhar dados e informações em diversos grupos distintos
 - **Transação Multiuser**
 
 
-![sgbd2](https://cdn-icons-png.flaticon.com/512/2906/2906274.png)
+![sgbd2](https://cdn-icons-png.flaticon.com/512/2906/2906274.png?w=100)
 
 
