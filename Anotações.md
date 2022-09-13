@@ -13,9 +13,7 @@
 ### Dados >> São Fatos
 ### Dados Relacionados >> Database >> Significado
 
-
-
-
+&nbsp;
 # **SGBDs**
 
 ![sgbds](https://leonardofnsca.files.wordpress.com/2021/03/sgbdmercado.png?w=500)
@@ -36,6 +34,7 @@
 
 O SGBD é um software modular
 
+&nbsp;
 ### **MySQL: SGBD open source**
 
 
@@ -46,7 +45,7 @@ O SGBD é um software modular
 - Acesso: HFF5 eNetCDF/ 
 - Modelos: MPI, OpenMP, OpenCL / MapReduce, Spark, SGBDs paralelos
 
-
+&nbsp;
 # **SGBDs NoSQL**
 
 > **Orientado à Documentos:**  mongo DB
@@ -59,4 +58,6 @@ O SGBD é um software modular
 
 > **Orientado à Objetos:** db4objects 
 
+&nbsp;
+# **Abordagens de BDs**
 
