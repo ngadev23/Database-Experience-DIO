@@ -73,7 +73,54 @@ O SGBD é um software modular
 - **Compartilhamento:** facilidade em compartilhar dados e informações em diversos grupos distintos
 - **Transação Multiuser**
 
+&nbsp;
+> # **Compartilhamento de Dados e Processamento de Trasações multiusuários**
 
-![sgbd2](https://cdn-icons-png.flaticon.com/512/2906/2906274.png?w=100)
+## Concurrency Control: Controle de Concorrência
+Permite que vários usuários acessem ao mesmo tempo sem que haja inconsistência dos dados do SGBD
+
+&nbsp;
+
+> **OLTP:** Online Transation Processing
+
+**Transaction-Driven:**
+- Processamento de Dados 
+- operacional
+
+&nbsp;
+
+
+> **OLTP vs OLAP**
+
+Online Transaction Prcessgin | Online Analytical Processing
+Ambiente Operacional | Ambiente Informativo
+
+&nbsp;
+
+## **Abordagens do Banco de Dados**
+
+**Atores**
+
+- Design do Banco de Dados (BD Design)
+   - Identificar dados e requisitos
+   - Representação e Estrutura
+   - Fase Preliminar
+
+- Administrador do Bando de Dados (DBA)
+   - Gerenciar os recursos do banco de dados
+   - Orquestração
+   - Autorização de Acesso
+
+- Usuários Finais
+   
+&nbsp;
+> ## **Vantagens dos SGBDs**
+
+- Controle de Redundância
+- Restrição de Acesso
+- Storage - Provê persistência
+- Storage - Provê Estrutura
+- Back up e Recovery
+
 
 
