@@ -122,5 +122,19 @@ Ambiente Operacional | Ambiente Informativo
 - Storage - Provê Estrutura
 - Back up e Recovery
 
+> # **Introdução a Modelagem de Banco de Dados SQL**
+
+&nbsp;
+## Modelagem
+- foco na descrição
+- relacionamento dos elementos
+
+**Processo de Modelagem**
+- Mini-mundo: delimita o contexto dos dados
+- Alto nível: Requisitos para criação modelo
+- Esquema: Definir estrutura relacional (E-R)
+- SGBD: Criando o BD (Implementação)
+
+
 
 
