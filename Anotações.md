@@ -135,6 +135,42 @@ Ambiente Operacional | Ambiente Informativo
 - Esquema: Definir estrutura relacional (E-R)
 - SGBD: Criando o BD (Implementação)
 
+> # **Arquitetura de BD**
+
+- Modelo
+- Esquemas
+- Instâncias
+
+> Abstração = Essencial
+
+Trazer o mundo real para o banco de dados
+
+*Modelo de BD está atrelado a estrutura*
+
+- **Modelos de Dados Conceitual:** Visão de alto nível
+   - Entidade
+   - Atributos
+   - Relacionamento
+   - Modelo E-R
+- **Modelo de Dados  de Implementação:** Representacional
+   - Modelo de dados relaciona
+   - Modelos hierárquicos
+- **Modelo de Dados Físico:** Especialista
+   - Índices
+   - Hashes
+
+*Esquema*
+- Diagramas: Descrição
+- Instência | Ocorrência
+- Snapshot
+- Descrição de Dados
+- Meta dados
+   - Descrição esquema
+   - Contructs
+   - Constrains
+      
+
+
 
 
 
