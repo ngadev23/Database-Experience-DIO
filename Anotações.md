@@ -168,11 +168,65 @@ Trazer o mundo real para o banco de dados
    - Descrição esquema
    - Contructs
    - Constrains
+
+*Linguagens para SGBD*
+
+- DDL: Data Definition Language
+- Separação Eplíxita:
+   - SDL: Stored Definition Language: Persistência dos dados
+   - VDL: Views Definition Language
+- DML: Data Manipulation Language
+
+*Interfaces de SGBDs*
+
+- Naive
+- DBA
       
 
+*Utilities - Gerenciamento*
+- Loading
+- Backup
+- Reorganização do Storage
+- Monitoramento
 
 
+*Classificação dos SGBDs*
+- Parâmetros
+   - modelos de dados: SQL, noSQL
+   - nº usuários
+   - nº sites
+   - custos
+   - tipo de caminho de acesso
+- Performance
+   - OLTP
+- Relacional
+   - Coleção de Tabelas
+   - Alto nível
 
+   # PARA O README
+   DESIGN DE BDs
+   IMPLEMENTAÇÃO DE MODELO
+   APLICAÇÕES DE SGBDs
+   EXEMPLO DE APLICAÇÕES
 
+> *Mundo Fechado*
+   - tudo o que está dento do BD é verdadeiro
+
+> *Mini Mundo*
+   - Está dentro do mundo real, é a parte do mundo real que se quer modelar
+   - O BD armazena a partir do modelo lógico o mini mundo
+
+   > Álgebra Relacional
+
+   Conjunto de operações
+   - op. de Conjuntos
+   - Op. de BD Relacional
+
+> Processo de Criação de SGBD
+- Projeto conceitual
+- Projeto lógico
+- Projeto físico
+- Produção
+- Manutenção
 
 
