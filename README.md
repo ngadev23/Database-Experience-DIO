@@ -3,6 +3,6 @@
 
 #### Projeto 1: Modelagem de Projeto Conceitual de um E-commerce (Refinamento)
 
-🔗[Acesse aqui](https://github.com/ngadev23/Database-Experience-DIO/blob/main/ecommerce_refinamento.png)
+🔗**[Acesse aqui](https://github.com/ngadev23/Database-Experience-DIO/blob/main/ecommerce_refinamento.png)**
 
 
