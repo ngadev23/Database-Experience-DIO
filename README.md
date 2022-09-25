@@ -8,3 +8,8 @@
 🔗[> **Acesse aqui**](https://github.com/ngadev23/Database-Experience-DIO/blob/main/ecommerce_refinamento.png)
 
 
+&nbsp;
+
+> #### Projeto 2: Construindo um Esquema Conceitual para Banco De dados
+
+
